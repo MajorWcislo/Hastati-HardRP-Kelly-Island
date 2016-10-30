@@ -231,7 +231,7 @@ class AddonsMetaData
 			className="A3_Characters_F_Exp";
 			name="Arma 3 Apex - Characters and Clothing";
 			author="Bohemia Interactive";
-			url="http://www.arma3.com";
+			url="http://www.arma3.com.";
 		};
 		class Item11
 		{
