@@ -1,4 +1,4 @@
-version=52;
+\version=52;
 class EditorData
 {
 	moveGridStep=1;
